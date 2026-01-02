@@ -5,7 +5,7 @@
 
 
 int main(){
-    std::string fileName = "bird_song.mid";
+    std::string fileName = "wolf.mid";
     std::ifstream midiFile;
     midiFile.open(fileName, std::ios::binary | std::ios::in | std::ios::ate);
     if (!midiFile){
