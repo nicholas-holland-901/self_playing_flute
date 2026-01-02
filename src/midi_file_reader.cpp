@@ -5,6 +5,7 @@
 
 
 int main(){
+    // Select file by inserting name here
     std::string fileName = "wolf.mid";
     std::ifstream midiFile;
     midiFile.open(fileName, std::ios::binary | std::ios::in | std::ios::ate);

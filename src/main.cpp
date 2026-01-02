@@ -37,7 +37,6 @@ void setup() {
 
 void loop() {
   set_note(notes[iter]);
-  // open_all();
   move_motors();
 
   if (timer[iter] != 0){
