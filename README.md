@@ -1,6 +1,7 @@
 ﻿# self_playing_flute
 
-Setup can control flute fingerings from notes D4 to C7 based on MIDI file data.
+Setup can control flute fingerings from notes D4 to C7 based on MIDI file data at a maximum speed of about 10 notes per second.
+Please excuse my playing ability.
 
 <img width="292" height="413" alt="image" src="https://github.com/user-attachments/assets/fae49559-8758-47a0-b92f-8f465423e228" />
 
